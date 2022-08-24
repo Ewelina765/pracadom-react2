@@ -1,0 +1,99 @@
+
+
+.container {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+
+}
+.nav {
+background-color: orange;
+border-radius: 10px;
+height: 80px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+
+}
+
+.page {
+    background-color: darkorchid;
+    border-radius: 10px;
+    height: 100vw;
+    
+}
+
+.list {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    
+
+}
+.me {
+    background-color: pink;
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.contact {
+    background-color: aquamarine;
+    height: 100vw;
+    text-align: center; 
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.toDo {
+    background-color: burlywood;
+    height: 100vw; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+.list {
+    display: flex;
+}
+.logoSign {
+    margin-left: 30px;
+    
+}
+li {
+    list-style-type: none;
+    padding-left: 10px;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.toDoButton {
+    margin-top: 600px;
+}
+
+.characters {
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.fotoOfCharacters {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+ 
+}
